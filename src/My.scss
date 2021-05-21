@@ -1,0 +1,11 @@
+$nameColor:red;
+$backColor:green;
+$mypadding:30px;
+
+.TexrStyle{
+    color: $nameColor;
+    background: $backColor;
+    padding: $mypadding;
+    font-size: 2rem;
+    text-transform: capitalize;
+}
